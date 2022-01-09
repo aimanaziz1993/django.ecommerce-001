@@ -1,0 +1,7 @@
+*.pyc
+eCommerce001/__pycache__/
+orders/__pycache__/
+orders/migrations/__pycache__/
+products/__pycache__/
+products/migrations/__pycache__/
+media/
